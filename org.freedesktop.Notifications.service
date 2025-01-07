@@ -1,0 +1,5 @@
+#/usr/share/dbus-1/services/org.freedesktop.Notifications.service
+
+[D-BUS Service]
+Name=org.freedesktop.Notifications
+Exec=python /home/ivan/dev/hyprnotify/hyprnotify.py
